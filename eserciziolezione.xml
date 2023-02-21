@@ -1,0 +1,30 @@
+<?xml version=”1.0” encoding="UTF-8" standalone =”no” ?>
+<!-- informazioni:
+Filename: eserciziolezione.xml
+Author: Davide Cogliati
+Data:10 Luglio 2021
+Matricola: 620083-->
+255.255.252.0
+1048576
+report-query-leave-query
+
+UDP
+Una transazione UDP è uno scambio di datagrammi tra più nodi che condividono un protocollo controllato da un Xamministratore Xbrowser
+
+Falso
+
+50
+
+La presenza di porte gestite indipendentemente
+
+Unidirezionale
+
+
+
+QUIZ DOPO
+V>server client 4passi udp
+F>indirizzo mac  indirizzo ip
+
+
+
+
